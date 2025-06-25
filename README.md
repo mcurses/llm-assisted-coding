@@ -39,6 +39,8 @@ git ls-files | % { "=== $_ ==="; gc $_; "" } | scb
 	- "You suggested X. Given our scope, is there a lighter alternative?"
 
 ### Get aider instructions
+Make the LLM generate instructions for aider.
+You can use the following prompt:
 
 ```
 Based on our conversation above, prepare the aider context.
