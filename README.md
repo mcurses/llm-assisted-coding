@@ -86,7 +86,7 @@ Respond **exactly** in this order:
  `/ask`
 1. Describe the needed change / bug.
 2. Request files list
-	>- "For the following task, only give me a list of files that you need to see / edit" 
+	>- "For now, only give me a list of files that you need to see / edit, nothing else" 
 
 ## Kick-off generation
 > - "Go ahead, implement"
